@@ -5,7 +5,6 @@ metadata:
   title: K6 Template TypeScript
   description: A template for writing k6 scripts in TypeScript
   tags:
-    - k6
     - typescript
 spec:
   type: library
