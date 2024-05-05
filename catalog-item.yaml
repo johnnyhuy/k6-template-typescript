@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: k6-template-typescript
+  title: K6 Template TypeScript
+  description: A template for writing k6 scripts in TypeScript
+  tags:
+    - k6
+    - typescript
+spec:
+  type: library
+  lifecycle: experimental
+  owner: johnnyhuy
